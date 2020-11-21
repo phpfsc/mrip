@@ -1,0 +1,12 @@
+[30-Oct-2020 12:55:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home2/cloudvxm/public_html/mrip/default/fpdf/fpdf.php on line 16
+[30-Oct-2020 12:55:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home2/cloudvxm/public_html/mrip/default/fpdf/fpdf.php on line 16
+[30-Oct-2020 12:57:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home2/cloudvxm/public_html/mrip/default/fpdf/fpdf.php on line 16
+[30-Oct-2020 13:03:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home2/cloudvxm/public_html/mrip/default/fpdf/fpdf.php on line 16
+[30-Oct-2020 18:33:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function split() in /home2/cloudvxm/public_html/mrip/default/operations/billing.php:540
+Stack trace:
+#0 {main}
+  thrown in /home2/cloudvxm/public_html/mrip/default/operations/billing.php on line 540
+[30-Oct-2020 13:07:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home2/cloudvxm/public_html/mrip/default/fpdf/fpdf.php on line 16
+[05-Nov-2020 08:21:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home2/cloudvxm/public_html/mrip/default/fpdf/fpdf.php on line 16
+[05-Nov-2020 08:21:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home2/cloudvxm/public_html/mrip/default/fpdf/fpdf.php on line 16
+[10-Nov-2020 05:34:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home2/cloudvxm/public_html/mrip/default/fpdf/fpdf.php on line 16
